@@ -47,7 +47,7 @@ Brain-Tumor-Classification/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/Brain-Tumor-Classification.git
+git clone https://github.com/Pradeep-creator377/Brain-Tumor-MRI-Image-Classification.git
 cd Brain-Tumor-Classification
 pip install tensorflow streamlit numpy pillow matplotlib
 streamlit run app.py
