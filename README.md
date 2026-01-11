@@ -34,12 +34,19 @@ The application is built with **Streamlit** to provide an interactive web interf
 ## 📂 Project Structure 
 
 ```
-Brain-Tumor-Classification/
+Brain-Tumor-MRI-Image-Classification/
 │
-├── best_ResNet50.h5     # Trained ResNet50 model
-├── app.py               # Streamlit application code
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── Brain_Tumor_MRI_Image_Classification.ipynb # Jupyter notebook with training workflow
+├── brain_tumor_pred_resnet_stl.py # Streamlit web app for MRI image classification
+├── best_ResNet50.h5 # Trained ResNet50 model (tracked via Git LFS)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── .gitattributes # Git LFS tracking rules
+├── Tumor class distribution.png # Visualization of class distribution
+├── Test Class Imbalance Analysis.png # Visualization of test set imbalance
+├── Train - sample.png # Sample training image
+├── Validation - sample.png # Sample validation image
+├── Test - sample.png # Sample test image ├── Test MRI image sample.png # Additional test image
 ```
 
 ---
