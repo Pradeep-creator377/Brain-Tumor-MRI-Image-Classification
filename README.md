@@ -46,7 +46,8 @@ Brain-Tumor-MRI-Image-Classification/
 ├── Test Class Imbalance Analysis.png # Visualization of test set imbalance
 ├── Train - sample.png # Sample training image
 ├── Validation - sample.png # Sample validation image
-├── Test - sample.png # Sample test image ├── Test MRI image sample.png # Additional test image
+├── Test - sample.png # Sample test image
+├── Test MRI image sample.png # Additional test image
 ```
 
 ---
